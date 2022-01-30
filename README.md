@@ -40,6 +40,8 @@ This repo represents the new Kaggle Survey analysis [the 2021 Kaggle Machine Lea
    
    ![Age by positon](https://github.com/akibiqbal98/2021-Kaggle-Data-Science-Profession-Survey/blob/master/Age%20by%20position.png)
    
+   ![Age by positon](https://github.com/akibiqbal98/2021-Kaggle-Data-Science-Profession-Survey/blob/master/Amount%20of%20women%20by%20country.png)
+   
    
 ## Tech used 
    - Jupyter notebook
