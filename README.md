@@ -1,4 +1,5 @@
 # 2021 Kaggle Machine Learning & Data Science Survey
+ ![image](https://user-images.githubusercontent.com/51336709/151690629-fe271df2-efb0-4426-95f3-75a96d3ba2e2.png)
 
 This repo represents the new Kaggle Survey analysis [the 2021 Kaggle Machine Learning &amp; Data Science Survey](https://www.kaggle.com/c/kaggle-survey-2021).
 
@@ -22,7 +23,7 @@ This repo represents the new Kaggle Survey analysis [the 2021 Kaggle Machine Lea
     - Compare models for just subsets of women and men to hopefully normalize for more variables.
 
 ## Algorithms & process 
-    **From a technical perspective, I do the following:**
+    From a technical perspective, I do the following:
     - Outline my analysis 
     - load in and briefly explore the data 
     - Check for null values 
@@ -39,6 +40,15 @@ This repo represents the new Kaggle Survey analysis [the 2021 Kaggle Machine Lea
    
    ![Age by positon](https://github.com/akibiqbal98/2021-Kaggle-Data-Science-Profession-Survey/blob/master/Age%20by%20position.png)
    
+   
+## Tech used 
+   - Jupyter notebook
+   - Numpy
+   - Pandas
+   - Matplotlib
+   - [Plotly](https://plotly.com/)
+   - [Statsmodel](https://www.statsmodels.org/stable/index.html)
+   - [Scikit-learn](https://scikit-learn.org/stable/)
 
 
 
